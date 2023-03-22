@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/karma/OneDrive/Desktop/isme hai code/animation/windows/runner
+# Install script for directory: C:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/windows/runner
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

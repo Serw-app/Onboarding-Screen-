@@ -19,16 +19,12 @@ class _GetStartedscreenState extends State<GetStartedscreen> {
     "assets/ontime.json",
   ];
 
-  final titles = [
-    "hi this is chaitanya karmalkar",
-    "who are you?",
-    "something about it."
-  ];
+  final titles = ["Hi !", "Welcome to Serw", "                 "];
 
   final descs = [
-    "Ho Hey",
+    "",
     "Ophelia",
-    "Wake me Up",
+    "Get started !",
   ];
 
   @override
@@ -114,10 +110,9 @@ class _GetStartedscreenState extends State<GetStartedscreen> {
                       ElevatedButton(
                         onPressed: () {
                           final nextPage = selectedIndex.value + 1;
-                          pageController.animateToPage(
-                            nextPage,
-                            duration: const Duration(microseconds: 300),
-                            curve: Curves.ease);
+                          pageController.animateToPage(nextPage,
+                              duration: const Duration(microseconds: 300),
+                              curve: Curves.ease);
                         },
                         style: ElevatedButton.styleFrom(
                           shape: RoundedRectangleBorder(

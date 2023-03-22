@@ -21,7 +21,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{7CE06C17-7700-3AE8-9838-CD52FE3CE83E}</ProjectGuid>
+    <ProjectGuid>{B4F1EBF0-7A6D-3F24-AE34-8BF883E8477A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -88,11 +88,11 @@
     </Midl>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\runner\CMakeLists.txt">
+    <CustomBuild Include="C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\runner\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/karma/OneDrive/Desktop/isme hai code/animation/windows/runner/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/windows/runner/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/karma/OneDrive/Desktop/isme hai code/animation/windows" "-BC:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows" --check-stamp-file "C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/runner/CMakeFiles/generate.stamp"
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/windows -BC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows --check-stamp-file C:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows/runner/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -101,11 +101,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\karma\OneDrive\Desktop\isme hai code\animation\build\windows\runner\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\build\windows\runner\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">Building Custom Rule C:/Users/karma/OneDrive/Desktop/isme hai code/animation/windows/runner/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">Building Custom Rule C:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/windows/runner/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/karma/OneDrive/Desktop/isme hai code/animation/windows" "-BC:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows" --check-stamp-file "C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/runner/CMakeFiles/generate.stamp"
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/windows -BC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows --check-stamp-file C:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows/runner/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -114,11 +114,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">C:\Users\karma\OneDrive\Desktop\isme hai code\animation\build\windows\runner\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\build\windows\runner\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/karma/OneDrive/Desktop/isme hai code/animation/windows/runner/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/windows/runner/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/karma/OneDrive/Desktop/isme hai code/animation/windows" "-BC:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows" --check-stamp-file "C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/runner/CMakeFiles/generate.stamp"
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/windows -BC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows --check-stamp-file C:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows/runner/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -127,21 +127,21 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\karma\OneDrive\Desktop\isme hai code\animation\build\windows\runner\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\build\windows\runner\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\karma\OneDrive\Desktop\isme hai code\animation\build\windows\ZERO_CHECK.vcxproj">
-      <Project>{93BCC7A1-FAD0-3D1C-ACD7-FC2A50FE40AD}</Project>
+    <ProjectReference Include="C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\build\windows\ZERO_CHECK.vcxproj">
+      <Project>{35CDD123-FDC4-38E8-98C4-0497BB7BE43D}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\karma\OneDrive\Desktop\isme hai code\animation\build\windows\runner\animation.vcxproj">
-      <Project>{022E1528-B9E4-3DCD-8AE6-ECA4ACFAD74F}</Project>
+    <ProjectReference Include="C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\build\windows\runner\animation.vcxproj">
+      <Project>{4C95F7CB-4942-36DB-A5D0-17A50EEE23FD}</Project>
       <Name>animation</Name>
     </ProjectReference>
   </ItemGroup>

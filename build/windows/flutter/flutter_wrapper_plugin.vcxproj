@@ -18,7 +18,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{92D2B3ED-693B-371A-8E3C-76B23BC011E0}</ProjectGuid>
+    <ProjectGuid>{8E9C6B6F-0387-354A-B649-A16438D31044}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -50,22 +50,22 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\karma\OneDrive\Desktop\isme hai code\animation\build\windows\flutter\Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\build\windows\flutter\Debug\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">flutter_wrapper_plugin.dir\Debug\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">flutter_wrapper_plugin</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.lib</TargetExt>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">C:\Users\karma\OneDrive\Desktop\isme hai code\animation\build\windows\flutter\Profile\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\build\windows\flutter\Profile\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">flutter_wrapper_plugin.dir\Profile\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">flutter_wrapper_plugin</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">.lib</TargetExt>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\karma\OneDrive\Desktop\isme hai code\animation\build\windows\flutter\Release\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\build\windows\flutter\Release\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">flutter_wrapper_plugin.dir\Release\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">flutter_wrapper_plugin</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.lib</TargetExt>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
@@ -85,10 +85,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;_WINDOWS;_HAS_EXCEPTIONS=0;UNICODE;_UNICODE;CMAKE_INTDIR=\"Debug\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -101,7 +101,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <DisableSpecificWarnings>"4100"</DisableSpecificWarnings>
       <ExceptionHandling>Sync</ExceptionHandling>
@@ -121,10 +121,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_HAS_EXCEPTIONS=0;UNICODE;_UNICODE;CMAKE_INTDIR=\"Profile\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -137,7 +137,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <DisableSpecificWarnings>"4100"</DisableSpecificWarnings>
       <ExceptionHandling>Sync</ExceptionHandling>
@@ -157,10 +157,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_HAS_EXCEPTIONS=0;UNICODE;_UNICODE;CMAKE_INTDIR=\"Release\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral\cpp_client_wrapper\include;C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -172,11 +172,11 @@
     </Lib>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\CMakeLists.txt">
+    <CustomBuild Include="C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/karma/OneDrive/Desktop/isme hai code/animation/windows/flutter/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/windows/flutter/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/karma/OneDrive/Desktop/isme hai code/animation/windows" "-BC:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows" --check-stamp-file "C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/flutter/CMakeFiles/generate.stamp"
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/windows -BC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows --check-stamp-file C:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows/flutter/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -184,12 +184,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral\generated_config.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\karma\OneDrive\Desktop\isme hai code\animation\build\windows\flutter\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral\generated_config.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\build\windows\flutter\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">Building Custom Rule C:/Users/karma/OneDrive/Desktop/isme hai code/animation/windows/flutter/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">Building Custom Rule C:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/windows/flutter/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/karma/OneDrive/Desktop/isme hai code/animation/windows" "-BC:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows" --check-stamp-file "C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/flutter/CMakeFiles/generate.stamp"
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/windows -BC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows --check-stamp-file C:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows/flutter/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -197,12 +197,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral\generated_config.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">C:\Users\karma\OneDrive\Desktop\isme hai code\animation\build\windows\flutter\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral\generated_config.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\build\windows\flutter\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/karma/OneDrive/Desktop/isme hai code/animation/windows/flutter/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/windows/flutter/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/karma/OneDrive/Desktop/isme hai code/animation/windows" "-BC:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows" --check-stamp-file "C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/flutter/CMakeFiles/generate.stamp"
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/windows -BC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows --check-stamp-file C:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows/flutter/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -210,25 +210,25 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral\generated_config.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\karma\OneDrive\Desktop\isme hai code\animation\build\windows\flutter\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral\generated_config.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\build\windows\flutter\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc" />
-    <ClCompile Include="C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc" />
-    <ClCompile Include="C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc" />
+    <ClCompile Include="C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc" />
+    <ClCompile Include="C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc" />
+    <ClCompile Include="C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\karma\OneDrive\Desktop\isme hai code\animation\build\windows\ZERO_CHECK.vcxproj">
-      <Project>{93BCC7A1-FAD0-3D1C-ACD7-FC2A50FE40AD}</Project>
+    <ProjectReference Include="C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\build\windows\ZERO_CHECK.vcxproj">
+      <Project>{35CDD123-FDC4-38E8-98C4-0497BB7BE43D}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\karma\OneDrive\Desktop\isme hai code\animation\build\windows\flutter\flutter_assemble.vcxproj">
-      <Project>{80D55AA2-FED5-37C5-8FF1-7FB2319FF564}</Project>
+    <ProjectReference Include="C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\build\windows\flutter\flutter_assemble.vcxproj">
+      <Project>{DF55F7A6-48CD-3A62-B257-5C88A3FBA666}</Project>
       <Name>flutter_assemble</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>

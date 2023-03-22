@@ -1,6 +1,6 @@
-^C:\USERS\KARMA\ONEDRIVE\DESKTOP\ISME HAI CODE\ANIMATION\BUILD\WINDOWS\CMAKEFILES\D4BBC8AC3AD4E344E9385A41465F1C59\FLUTTER_WINDOWS.DLL.RULE
+^C:\USERS\RANJAN\DESKTOP\SERW\USER-APP\ONBOARDING-SCREEN-\BUILD\WINDOWS\CMAKEFILES\9B8F51E6B7B3498194EF9216BEF4F02B\FLUTTER_WINDOWS.DLL.RULE
 setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\tools\flutter "PROJECT_DIR=C:\Users\karma\OneDrive\Desktop\isme hai code\animation" FLUTTER_ROOT=C:\tools\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\karma\OneDrive\Desktop\isme hai code\animation\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\karma\OneDrive\Desktop\isme hai code\animation" "FLUTTER_TARGET=C:\Users\karma\OneDrive\Desktop\isme hai code\animation\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\karma\OneDrive\Desktop\isme hai code\animation\.dart_tool\package_config.json" C:/tools/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\Ranjan\Desktop\flutter PROJECT_DIR=C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen- FLUTTER_ROOT=C:\Users\Ranjan\Desktop\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\windows\flutter\ephemeral PROJECT_DIR=C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen- FLUTTER_TARGET=C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\.dart_tool\package_config.json C:/Users/Ranjan/Desktop/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
@@ -8,7 +8,7 @@ endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd
-^C:\USERS\KARMA\ONEDRIVE\DESKTOP\ISME HAI CODE\ANIMATION\BUILD\WINDOWS\CMAKEFILES\8587C56881D2E4A90AF46FB003CCEC4A\FLUTTER_ASSEMBLE.RULE
+^C:\USERS\RANJAN\DESKTOP\SERW\USER-APP\ONBOARDING-SCREEN-\BUILD\WINDOWS\CMAKEFILES\C4489F33BD7C174C47E1F116B258DCA5\FLUTTER_ASSEMBLE.RULE
 setlocal
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
@@ -16,9 +16,9 @@ endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd
-^C:\USERS\KARMA\ONEDRIVE\DESKTOP\ISME HAI CODE\ANIMATION\WINDOWS\FLUTTER\CMAKELISTS.TXT
+^C:\USERS\RANJAN\DESKTOP\SERW\USER-APP\ONBOARDING-SCREEN-\WINDOWS\FLUTTER\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/karma/OneDrive/Desktop/isme hai code/animation/windows" "-BC:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows" --check-stamp-file "C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/flutter/CMakeFiles/generate.stamp"
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/windows -BC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows --check-stamp-file C:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows/flutter/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

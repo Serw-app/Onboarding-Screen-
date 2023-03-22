@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\karma\OneDrive\Desktop\isme hai code\animation\build\windows\CMakeFiles\61100e4acffdacf6777b98f56cc30d64\INSTALL_force.rule">
+    <CustomBuild Include="C:\Users\Ranjan\Desktop\Serw\user-app\Onboarding-Screen-\build\windows\CMakeFiles\1a88dc9e44a3a712e28abf983f5ae613\INSTALL_force.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{D9CEE187-A516-3776-8381-69170A44A3B2}</UniqueIdentifier>
+      <UniqueIdentifier>{991C0371-E706-3468-82A1-8860595B9BEF}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

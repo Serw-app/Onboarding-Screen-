@@ -1,6 +1,6 @@
-^C:\USERS\KARMA\ONEDRIVE\DESKTOP\ISME HAI CODE\ANIMATION\BUILD\WINDOWS\CMAKEFILES\097F587DA2B39B696F5FC76A5213463F\GENERATE.STAMP.RULE
+^C:\USERS\RANJAN\DESKTOP\SERW\USER-APP\ONBOARDING-SCREEN-\BUILD\WINDOWS\CMAKEFILES\0044FC9D9594FB777A358887E83FD199\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/karma/OneDrive/Desktop/isme hai code/animation/windows" "-BC:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/animation.sln"
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/windows -BC:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Ranjan/Desktop/Serw/user-app/Onboarding-Screen-/build/windows/animation.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
